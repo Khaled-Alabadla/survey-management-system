@@ -1,6 +1,6 @@
-# Survey Management System
+# Surveys Management System
 
-The **Survey Management System** is a lightweight and user-friendly web application developed using **Laravel**, **MySQL**, and **TailwindCSS**. This system allows users to efficiently create, update, delete, read, and deploy surveys, providing a streamlined approach to survey management.
+The **Surveys Management System** is a lightweight and user-friendly web application developed using **Laravel**, **MySQL**, and **TailwindCSS**. This system allows users to efficiently create, update, delete, read, and deploy surveys, providing a streamlined approach to survey management.
 
 ## Features
 
